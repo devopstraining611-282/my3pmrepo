@@ -21,3 +21,7 @@ public fucntion4()
 {
 	system.out.println("function 4 code added");
 }
+public fucntion 5()
+{
+	system.out.println("function 5 code added"):
+}
