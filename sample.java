@@ -29,3 +29,7 @@ public function 6()
 {
 	system.out.println("function 6 code added");
 }
+public function7()
+{
+	system.out.println("function 7 code added");
+}
