@@ -33,3 +33,7 @@ public function7()
 {
 	system.out.println("function 7 code added");
 }
+public function8()
+{
+	system.out.println("function 8 code added");
+}
