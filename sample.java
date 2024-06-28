@@ -9,4 +9,15 @@ public function1()
 public fucntion4()
 {
 	system.out.println("function 4 code added");
+publiv function2()
+{
+	system.out.println("function 2 code added");
+}
+public function3()
+{
+	system.out.println("function 3 code added");
+}
+public fucntion4()
+{
+	system.out.println("function 4 code added");
 }
